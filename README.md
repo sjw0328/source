@@ -23,6 +23,8 @@ python dsafg.py
 
 `version.txt` 가 `dsafg.py` 와 같은 폴더에 있어야 합니다. 없거나 형식이 깨지면 앱이 일부러 실행되지 않습니다.
 
+기능별 사용법: [docs/USER_GUIDE.md](docs/USER_GUIDE.md)
+
 ## 빌드 (PyInstaller)
 
 ```
